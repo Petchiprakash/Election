@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356743824594",
+    "project_id": "election-f4126",
+    "storage_bucket": "election-f4126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356743824594:android:da8c017bfd8dd9a8e7190b",
+        "android_client_info": {
+          "package_name": "com.example.election"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356743824594-e5sdhg21rpa0fpud96sa6vgnrjb4351v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY4OWzdpECT3ITVb9eGO7XmrPMLbD-6hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356743824594-e5sdhg21rpa0fpud96sa6vgnrjb4351v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

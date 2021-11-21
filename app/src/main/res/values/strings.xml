@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Election</string>
+    <string name="register_number">Register Number</string>
+    <string name="cast_your_vote">Cast Your Vote</string>
+    <string name="franchise">Franchise</string>
+    <string name="dc">DC</string>
+    <string name="settings">Settings</string>
+    <string name="rules">Rules</string>
+    <string name="result">Result</string>
+    <string name="about">About</string>
+    <string name="hod_vote">HOD vote</string>
+    <string name="hod_desc"> Head of the department vote has the special value of 10*regular votes. HOD id is 1</string>
+    <string name="assistant_professors_votes">Assistant Professors Votes</string>
+    <string name="asp_desc"> 2-50 register numbers are assigned to staff members.Each of the teacher vote has a special value of 5 * regular votes</string>
+    <string name="students_vote">Students Vote</string>
+    <string name="stud_desc">Students must use the register number to cast their vote and It is a regular vote value of 1</string>
+    <string name="vote">Vote</string>
+    <string name="marvel">Marvel</string>
+    <string name="dc_comics">DC Comics</string>
+    <string name="button">Button</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="total_vote_count">Total Vote Count</string>
+    <string name="winner">Winner</string>
+    <string name="_0">0</string>
+    <string name="won_by">Won By</string>
+    <string name="the_winner_is">The winner is</string>
+</resources>
